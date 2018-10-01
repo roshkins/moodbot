@@ -1,0 +1,15 @@
+{
+  "name": "moodbot",
+  "version": "1.0.0",
+  "description": "Balances your discord mood",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "dotenv": "^6.0.0",
+    "node-fetch": "^2.2.0"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  }
+}
